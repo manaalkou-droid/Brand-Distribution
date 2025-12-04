@@ -38,6 +38,6 @@ KaggleHub
 
 📂 Dataset Details:
 
-Source: Kaggle – Car Price Prediction Dataset
+Source: [Kaggle – Car Price Prediction Dataset](https://www.kaggle.com/datasets/prince7489/car-price-prediction-dataset?resource=download)
 
 
