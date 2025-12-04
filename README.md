@@ -35,3 +35,9 @@ NumPy
 Matplotlib & Seaborn 
 
 KaggleHub 
+
+📂 Dataset Details:
+
+Source: Kaggle – Car Price Prediction Dataset
+
+
